@@ -1,0 +1,3 @@
+ClassTeacher:Himanshu Sir
+Sub:Operating System
+Marks:100
